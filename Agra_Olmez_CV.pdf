@@ -37,7 +37,7 @@ endobj
 /URI (https\072\057\057agraolmez\056github\056io\057)
 >>
 /Border [ 0 0 0 ]
-/Rect [ 149.45998 718.6 229.4356 730.6 ]
+/Rect [ 95.47998 718.6 175.4556 730.6 ]
 /Subtype /Link
 /Type /Annot
 >>
@@ -50,7 +50,7 @@ endobj
 /URI (https\072\057\057www\056linkedin\056com\057in\057agraemirolmez\057)
 >>
 /Border [ 0 0 0 ]
-/Rect [ 236.4375 718.6 362.2285 730.6 ]
+/Rect [ 182.4575 718.6 308.2485 730.6 ]
 /Subtype /Link
 /Type /Annot
 >>
@@ -63,7 +63,7 @@ endobj
 /URI (mailto\072AOlmez28\100gsb\056columbia\056edu)
 >>
 /Border [ 0 0 0 ]
-/Rect [ 369.2305 718.6 492.8584 730.6 ]
+/Rect [ 315.2505 718.6 438.8784 730.6 ]
 /Subtype /Link
 /Type /Annot
 >>
@@ -76,7 +76,7 @@ endobj
 /URI (tel\072\05319294591163)
 >>
 /Border [ 0 0 0 ]
-/Rect [ 499.8604 718.6 570.5 730.6 ]
+/Rect [ 445.8804 718.6 516.52 730.6 ]
 /Subtype /Link
 /Type /Annot
 >>
@@ -140,7 +140,7 @@ endobj
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 .066667 .066667 .066667 rg
-BT 1 0 0 1 432.0518 732 Tm /F2+0 14 Tf 16.8 TL (AGRA EMIR OLMEZ) Tj T* ET
+BT 1 0 0 1 432.0518 733 Tm /F2+0 14 Tf 16.8 TL (AGRA EMIR OLMEZ) Tj T* ET
 q
 1 0 0 1 95.48 719.4 cm
 q
@@ -975,7 +975,7 @@ endobj
 /CreationDate (D\07220260903114407\05504\04700\047)
 /Creator (Codex)
 /Keywords ()
-/ModDate (D\07220260903141215\0550400)
+/ModDate (D\07220260903141955\0550400)
 /Subject (Quantitative Finance Resume)
 /Title (Agra Emir Olmez \055 Resume)
 /Trapped (\057False)
@@ -983,14 +983,14 @@ endobj
 endobj
 28 0 obj
 <<
-/Length 10479
+/Length 10478
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 .066667 .066667 .066667 rg
-BT 1 0 0 1 432.0518 733 Tm /F2+0 14 Tf 16.8 TL (AGRA EMIR OLMEZ) Tj T* ET
+BT 1 0 0 1 236.7759 733 Tm /F2+0 14 Tf 16.8 TL (AGRA EMIR OLMEZ) Tj T* ET
 q
-1 0 0 1 95.48 719.4 cm
+1 0 0 1 41.5 719.4 cm
 q
 .066667 .066667 .066667 RG
 n 53.97998 -0.05 m 133.9556 -0.05 l S
@@ -1217,9 +1217,9 @@ xref
 0000000064 00000 n 
 0000000123 00000 n 
 0000000376 00000 n 
-0000000569 00000 n 
-0000000781 00000 n 
-0000000971 00000 n 
+0000000568 00000 n 
+0000000780 00000 n 
+0000000970 00000 n 
 0000001136 00000 n 
 0000001360 00000 n 
 0000001589 00000 n 
@@ -1248,5 +1248,5 @@ trailer
 /Info 27 0 R
 >>
 startxref
-139564
+139563
 %%EOF
